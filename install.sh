@@ -87,7 +87,7 @@ install_tools() {
     pipx_install_or_upgrade git+https://github.com/CobblePot59/adcheck adcheck
     pipx_install_or_upgrade git+https://github.com/p0dalirius/smbclient-ng smbclientng
     pipx_install_or_upgrade git+https://github.com/ScorpionesLabs/mssqlpwner mssqlpwner
-    pipx_install_or_upgrade git+https://github.com/logangoins/soapy soapy
+    pipx_install_or_upgrade git+https://github.com/logangoins/soapy SOAPy
     pipx_install_or_upgrade git+https://github.com/j4s0nmo0n/soaphound.py soaphound
     pipx_install_or_upgrade git+https://github.com/synacktiv/gpoParser gpoParser
     pipx_install_or_upgrade git+https://github.com/cogiceo/daclsearch daclsearch
